@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "CopySalesData",
+				"description": "Copies daily sales CSV from input to output zone",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
