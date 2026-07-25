@@ -1,0 +1,15 @@
+{
+	"name": "adf-prep-manoj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02bcec9f-08c6-47b7-a988-1bb18ea6af44",
+		"tenantId": "a472aa5f-84a6-4cc5-b8fd-572ac26ad3f7"
+	}
+}
